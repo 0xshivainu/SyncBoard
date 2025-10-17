@@ -89,10 +89,11 @@ dist/SyncBoard.exe  # Windows
 dist/SyncBoard      # macOS/Linux
 ```
 
-### 分發方式 / Distribution
+### 部署方式 / Distribution
 1. 將 `dist/SyncBoard` 複製到目標電腦
 2. 直接執行，無需安裝 Python
 3. 支援 Windows 7+、macOS 10.12+、Linux
+
 
 ## 🛠️ 技術規格 / Technical Specs
 
@@ -100,7 +101,7 @@ dist/SyncBoard      # macOS/Linux
 - **前端**：原生 HTML/CSS/JavaScript
 - **傳輸**：HTTP + WebSocket
 - **檔案**：記憶體暫存，1小時自動清理
-- **網路**：區域網路 mDNS 發現
+- **網路**：區域網路 mDNS
 
 ## 📝 授權條款 / License
 
