@@ -36,20 +36,6 @@ python main.py
 - 🔗 **分享**：點擊「📋 Copy Link」複製網址
 - 📱 **QR 碼**：`http://<電腦IP>:56321/qr`
 
-### 方法二：可執行檔 / Method 2: Executable
-
-**下載預編譯版本 / Download Pre-built**
-- [Windows 版本](https://github.com/your-repo/releases) (即將推出)
-- [macOS 版本](https://github.com/your-repo/releases) (即將推出)
-
-**直接執行 / Run Directly**
-```bash
-# Windows
-SyncBoard.exe
-
-# macOS
-./SyncBoard
-```
 
 ## 📖 使用說明 / Usage Guide
 
@@ -86,6 +72,8 @@ python main.py --port 8080
 - **macOS**：系統偏好設定 → 安全性與隱私 → 防火牆
 - **Linux**：`sudo ufw allow 56321`
 
+
+### 方法二：可執行檔 / Method 2: Executable
 ## 📦 打包說明 / Packaging Guide
 
 ### 使用 PyInstaller 打包 / Package with PyInstaller
