@@ -12,7 +12,7 @@ A simple and efficient browser-based clipboard sync tool that supports real-time
 ![SyncBoard Preview](demo/board.png)
 
 
-![phone Preview](demo/board_phone.jpng)
+![phone Preview](demo/board_phone.jpeg)
 ## ✨ 功能特色 / Features
 
 - 🌐 **瀏覽器端**：任何裝置的瀏覽器都能使用
