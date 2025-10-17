@@ -8,6 +8,8 @@
 
 A simple and efficient browser-based clipboard sync tool that supports real-time text, image, and file transfer without additional software installation.
 
+![SyncBoard Preview](demo/board.png)
+![SyncBoard Preview](demo/board_phone.png)
 ## ✨ 功能特色 / Features
 
 - 🌐 **瀏覽器端**：任何裝置的瀏覽器都能使用
@@ -57,6 +59,9 @@ python main.py
 - 📎 **檔案**：點擊「📎 File」上傳，支援任何檔案類型
 - 🖼️ **圖片**：自動顯示縮圖預覽
 - 📥 **下載**：點擊「Download」下載檔案
+
+![SyncBoard File Update](demo/image_update.png)
+![SyncBoard Text Update](demo/text_update.png)
 
 ### 4. 結束使用 / End Usage
 - 關閉瀏覽器分頁即可斷線
